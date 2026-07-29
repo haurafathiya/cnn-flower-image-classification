@@ -5,13 +5,12 @@ This project develops a Convolutional Neural Network (CNN) to classify five flow
 
 ## Dataset
 ![TensorFlow Flower Photos Dataset](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
-Note: use T4 GPU for faster loading (Runtime -> Change runtime type -> T4 GPU)
 
 ## Tools
 - Python
 - TensorFlow
 - Keras
-- Google Colab
+- Google Colab (Runtime -> Change runtime type -> T4 GPU)
 
 ## Model
 - CNN
